@@ -24,7 +24,7 @@ const oklchToHex = (str) => {
 
 // https://astro.build/config
 export default defineConfig({
-  redirects: {'/posts': '/moonlight03/posts'},
+  redirects: {'/': '/moonlight03'},
   site: "https://moonlight03.github.io/moonlight03",
   base: "/moonlight03",
   outDir: './docs',
