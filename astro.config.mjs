@@ -25,7 +25,7 @@ const oklchToHex = (str) => {
 // https://astro.build/config
 export default defineConfig({
   site: "https://moonlight03.githup.io/moonlight03",
-  base: "moonlight03",
+  base: "/docs",
   outDir: './docs',
   integrations: [
     tailwind(),
