@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://moonlight03.githup.io/sitemap-index.xml
