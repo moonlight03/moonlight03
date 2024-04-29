@@ -7,7 +7,7 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'Fuwari',
+  title: 'Xiang Li',
   subtitle: 'Demo Site',
   lang: 'zh_CN',
   themeHue: 250,
@@ -31,7 +31,7 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.About,
     {
       name: 'GitHub',
-      url: 'https://github.com/saicaca/fuwari',
+      url: 'https://github.com/moonlight03?tab=repositories',
       external: true,
     },
   ],
@@ -39,8 +39,8 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/demo-avatar.png',
-  name: 'Lorem Ipsum',
-  bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  name: '李祥 (Xiang Li)',
+  bio: '山东大学 软件学院 在读博士研究生.',
   links: [
     {
       name: 'Twitter',
@@ -55,7 +55,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'GitHub',
       icon: 'fa6-brands:github',
-      url: 'https://github.com/saicaca/fuwari',
+      url: 'https://github.com/moonlight03?tab=repositories',
     },
   ],
 }
