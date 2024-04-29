@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://moonlight03.githup.io/moonlight03/sitemap-index.xml
+Sitemap: https://moonlight03.githup.io/sitemap-index.xml
