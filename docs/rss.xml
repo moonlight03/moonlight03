@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Xiang Li</title><description>Demo Site</description><link>https://moonlight03.github.io/</link><language>zh_CN</language><item><title>demo</title><link>https://moonlight03.github.io/moonlight03/posts/demo/</link><guid isPermaLink="true">https://moonlight03.github.io/moonlight03/posts/demo/</guid><pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hello World&lt;/p&gt;
-</content:encoded></item><item><title>demo1</title><link>https://moonlight03.github.io/moonlight03/posts/demo1/</link><guid isPermaLink="true">https://moonlight03.github.io/moonlight03/posts/demo1/</guid><pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate><content:encoded/></item><item><title>Draft Example</title><link>https://moonlight03.github.io/moonlight03/posts/draft/</link><guid isPermaLink="true">https://moonlight03.github.io/moonlight03/posts/draft/</guid><pubDate>Fri, 01 Jul 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;This Article is a Draft&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Xiang Li</title><description>Demo Site</description><link>https://moonlight03.github.io/</link><language>zh_CN</language><item><title>Draft Example</title><link>https://moonlight03.github.io/moonlight03/posts/draft/</link><guid isPermaLink="true">https://moonlight03.github.io/moonlight03/posts/draft/</guid><pubDate>Fri, 01 Jul 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;This Article is a Draft&lt;/h1&gt;
 &lt;p&gt;This article is currently in a draft state and is not published. Therefore, it will not be visible to the general audience. The content is still a work in progress and may require further editing and review.&lt;/p&gt;
 &lt;p&gt;When the article is ready for publication, you can update the &quot;draft&quot; field to &quot;false&quot; in the Frontmatter:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;---
@@ -192,6 +191,12 @@ math should get its own line and be put in in double-dollarsigns:&lt;/p&gt;
 &lt;p&gt;$$I = \int \rho R^{2} dV$$&lt;/p&gt;
 &lt;p&gt;And note that you can backslash-escape any punctuation characters
 which you wish to be displayed literally, ex.: `foo`, *bar*, etc.&lt;/p&gt;
+</content:encoded></item><item><title>Siggraph2024 Paper</title><link>https://moonlight03.github.io/moonlight03/posts/siggraph2024/</link><guid isPermaLink="true">https://moonlight03.github.io/moonlight03/posts/siggraph2024/</guid><description>DreamFont3D: Personalized Text-to-3D Artistic Font Generation</description><pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;本文提出了一种新颖的文本到 3D 字体生成模型，它允许文本提示描述3D字体样式，字体蒙版或手绘字体布局来约束多视图下的3D字体结构，实现了3D艺术字体的生成和局部效果的控制。&lt;/p&gt;
+&lt;h1&gt;Method&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;./fig2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h1&gt;Results&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;./fig3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content:encoded></item><item><title>Include Video in the Posts</title><link>https://moonlight03.github.io/moonlight03/posts/video/</link><guid isPermaLink="true">https://moonlight03.github.io/moonlight03/posts/video/</guid><description>This post demonstrates how to include embedded video in a blog post.</description><pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Just copy the embed code from YouTube or other platforms, and paste it in the markdown file.&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;---
 title: Include Video in the Post
