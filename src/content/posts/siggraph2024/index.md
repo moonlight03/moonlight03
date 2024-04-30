@@ -3,7 +3,7 @@ title: Siggraph2024 Paper
 published: 2024-04-30
 description: "DreamFont3D: Personalized Text-to-3D Artistic Font Generation"
 image: "./fig1.jpeg"
-tags: [3D，艺术字]
+tags: [3D, 艺术字]
 category: 会议论文
 draft: false 
 ---
