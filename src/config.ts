@@ -7,6 +7,7 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
+  site: "https://moonlight03.github.io/moonlight03",
   title: 'Xiang Li',
   subtitle: 'Demo Site',
   lang: 'zh_CN',
