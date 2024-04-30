@@ -1,7 +1,9 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 个人介绍
+李祥，山东大学软件学院2023级博士研究生。2023 年6月毕业于山东大学软件学院，获得软件工程专业硕士学位。硕士期间的研究方向为艺术字图像生成，曾以第一作者身份发表CCF-A类论文一篇，CCF-B类论文一篇。2023年9月正式开始攻读软件工程专业学术博士学位，研究方向为基于多模态信息的3D AIGC，导师为孟雷教授。
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+
+> ## 教育经历
+> - 2023年9月-2027年6月，博士研究生，软件工程专业，山东大学软件学院
+> - 2020年9月-2023年6月，硕士研究生，软件工程专业，山东大学软件学院
+> - 2016年9月-2020年6月，本科，软件工程专业，青岛大学数据科学与软件工程学院
+
