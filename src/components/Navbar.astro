@@ -103,7 +103,7 @@ document.addEventListener('astro:after-swap', () => {
 
 {import.meta.env.PROD && <script is:raw>
 async function loadPagefind() {
-    const pagefind = await import({siteConfig.repo}+'/pagefind/pagefind.js')
+    const pagefind = await import('/moonlight03/pagefind/pagefind.js')
     await pagefind.options({
         'excerptLength': 20
     })

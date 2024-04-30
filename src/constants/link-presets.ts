@@ -5,7 +5,7 @@ import { i18n } from '@i18n/translation'
 export const LinkPresets: { [key in LinkPreset]: NavBarLink } = {
   [LinkPreset.Home]: {
     name: i18n(I18nKey.home),
-    url: '/moonlight03/',
+    url: '/moonlight03',
   },
   [LinkPreset.About]: {
     name: i18n(I18nKey.about),
