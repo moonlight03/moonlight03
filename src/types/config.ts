@@ -3,7 +3,7 @@ export type SiteConfig = {
   subtitle: string
   site: string
   lang: string
-
+  repo: string
   themeHue: number
   banner: {
     enable: boolean
