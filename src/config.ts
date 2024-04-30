@@ -41,7 +41,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/demo-avatar.png',
   name: '李祥 (Xiang Li)',
-  bio: '山东大学 软件学院 在读博士研究生.',
+  bio: '山东大学软件学院 2023级博士研究生',
   links: [
     {
       name: 'Twitter',
