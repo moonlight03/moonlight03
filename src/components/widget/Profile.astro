@@ -19,7 +19,10 @@ const config = profileConfig;
     </a>
     <div class="font-bold text-xl text-center mb-1 dark:text-neutral-50 transition">{config.name}</div>
     <div class="h-1 w-5 bg-[var(--primary)] mx-auto rounded-full mb-2 transition"></div>
-    <div class="text-center text-neutral-400 mb-2.5 transition">{config.bio}</div>
+    <div class="text-center text-neutral-400 mb-2.5 transition">{config.bio1}</div>
+    <div class="text-center text-neutral-400 mb-2.5 transition">{config.bio2}</div>
+    <div class="text-center text-neutral-400 mb-2.5 transition">{config.email}</div>
+    <div class="text-center text-neutral-400 mb-2.5 transition">{config.phone}</div>
     <div class="flex gap-2 mx-2 justify-center mb-4">
         {config.links.map(item =>
             <a rel="me" aria-label={item.name} href={item.url} target="_blank" class="btn-regular rounded-lg h-10 w-10 active:scale-90">

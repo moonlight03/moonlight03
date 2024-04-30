@@ -38,7 +38,10 @@ export type NavBarConfig = {
 export type ProfileConfig = {
   avatar?: string
   name: string
-  bio?: string
+  bio1: string
+  bio2: string
+  email: string
+  phone: string
   links: {
     name: string
     url: string
