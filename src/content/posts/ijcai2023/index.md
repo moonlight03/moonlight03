@@ -1,16 +1,16 @@
 ---
-title: Siggraph2024 Paper
-published: 2024-04-30
-description: "DreamFont3D: Personalized Text-to-3D Artistic Font Generation"
-image: "./fig1.jpeg"
-tags: [3D, 艺术字]
+title: IJCAI2023 Paper
+published: 2023-05-30
+description: "Compositional Zero-Shot Artistic Font Synthesis"
+image: "./fig1.png"
+tags: [2D, 艺术字, 风格解耦]
 category: 会议论文
 draft: false 
 ---
 
 # Abstract
 
-本文提出了一种新颖的文本到 3D 字体生成模型，它允许文本提示描述3D字体样式，字体蒙版或手绘字体布局来约束多视图下的3D字体结构，实现了3D艺术字体的生成和局部效果的控制。
+本文提出了一种新的组合式零样本艺术字体生成模型 (CAFS-GAN)，通过探索字形与效果之间编码语义的视觉独立性和联合兼容性，实现了对未见风格组合的合成。
 
 
 # Method
@@ -18,4 +18,4 @@ draft: false
 ![](./fig2.png)
 
 # Results
-![](./fig3.jpg)
+![](./fig3.png)

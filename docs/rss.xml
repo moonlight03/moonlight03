@@ -70,6 +70,30 @@ draft: true
     ├── cover.png
     └── index.md
 &lt;/code&gt;&lt;/pre&gt;
+</content:encoded></item><item><title>Siggraph2024 Paper</title><link>https://moonlight03.github.io/moonlight03/posts/icme2022/</link><guid isPermaLink="true">https://moonlight03.github.io/moonlight03/posts/icme2022/</guid><description>DreamFont3D: Personalized Text-to-3D Artistic Font Generation</description><pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;本文提出了一种新颖的文本到 3D 字体生成模型，它允许文本提示描述3D字体样式，字体蒙版或手绘字体布局来约束多视图下的3D字体结构，实现了3D艺术字体的生成和局部效果的控制。&lt;/p&gt;
+&lt;h1&gt;Method&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;./fig2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h1&gt;Results&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;./fig3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</content:encoded></item><item><title>Siggraph2024 Paper</title><link>https://moonlight03.github.io/moonlight03/posts/icme2023/</link><guid isPermaLink="true">https://moonlight03.github.io/moonlight03/posts/icme2023/</guid><description>DreamFont3D: Personalized Text-to-3D Artistic Font Generation</description><pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;本文提出了一种新颖的文本到 3D 字体生成模型，它允许文本提示描述3D字体样式，字体蒙版或手绘字体布局来约束多视图下的3D字体结构，实现了3D艺术字体的生成和局部效果的控制。&lt;/p&gt;
+&lt;h1&gt;Method&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;./fig2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h1&gt;Results&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;./fig3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</content:encoded></item><item><title>Siggraph2024 Paper</title><link>https://moonlight03.github.io/moonlight03/posts/icmr2022/</link><guid isPermaLink="true">https://moonlight03.github.io/moonlight03/posts/icmr2022/</guid><description>DreamFont3D: Personalized Text-to-3D Artistic Font Generation</description><pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;本文提出了一种新颖的文本到 3D 字体生成模型，它允许文本提示描述3D字体样式，字体蒙版或手绘字体布局来约束多视图下的3D字体结构，实现了3D艺术字体的生成和局部效果的控制。&lt;/p&gt;
+&lt;h1&gt;Method&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;./fig2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h1&gt;Results&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;./fig3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</content:encoded></item><item><title>IJCAI2023 Paper</title><link>https://moonlight03.github.io/moonlight03/posts/ijcai2023/</link><guid isPermaLink="true">https://moonlight03.github.io/moonlight03/posts/ijcai2023/</guid><description>Compositional Zero-Shot Artistic Font Synthesis</description><pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;本文提出了一种新的组合式零样本艺术字体生成模型 (CAFS-GAN)，通过探索字形与效果之间编码语义的视觉独立性和联合兼容性，实现了对未见风格组合的合成。&lt;/p&gt;
+&lt;h1&gt;Method&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;./fig2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h1&gt;Results&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;./fig3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content:encoded></item><item><title>Markdown Example</title><link>https://moonlight03.github.io/moonlight03/posts/markdown/</link><guid isPermaLink="true">https://moonlight03.github.io/moonlight03/posts/markdown/</guid><description>A simple example of a Markdown blog post.</description><pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;An h1 header&lt;/h1&gt;
 &lt;p&gt;Paragraphs are separated by a blank line.&lt;/p&gt;
 &lt;p&gt;2nd paragraph. &lt;em&gt;Italic&lt;/em&gt;, &lt;strong&gt;bold&lt;/strong&gt;, and &lt;code&gt;monospace&lt;/code&gt;. Itemized lists
@@ -197,6 +221,12 @@ which you wish to be displayed literally, ex.: `foo`, *bar*, etc.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;./fig2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;h1&gt;Results&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;./fig3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</content:encoded></item><item><title>Siggraph Asia 2023 Paper</title><link>https://moonlight03.github.io/moonlight03/posts/siggraphasia2023/</link><guid isPermaLink="true">https://moonlight03.github.io/moonlight03/posts/siggraphasia2023/</guid><description>Anything to Glyph: Artistic Font Synthesis via Text-to-Image Diffusion Model</description><pubDate>Sun, 30 Jul 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;本文提出了一种使用预训练的文本到图像扩散模型生成创造性艺术字体的新方法。我们的模型以形状图像和描述对象的提示词作为输入，并生成由这些对象组成的艺术字体图像。&lt;/p&gt;
+&lt;h1&gt;Method&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;./fig2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h1&gt;Results&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;./fig3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content:encoded></item><item><title>Include Video in the Posts</title><link>https://moonlight03.github.io/moonlight03/posts/video/</link><guid isPermaLink="true">https://moonlight03.github.io/moonlight03/posts/video/</guid><description>This post demonstrates how to include embedded video in a blog post.</description><pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Just copy the embed code from YouTube or other platforms, and paste it in the markdown file.&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;---
 title: Include Video in the Post
