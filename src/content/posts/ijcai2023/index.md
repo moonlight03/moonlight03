@@ -8,6 +8,11 @@ category: 会议论文
 draft: false 
 ---
 
+> Xiang Li, Lei Wu*, Changshuo Wang, Lei Meng*, Xiangxu Meng
+
+<center>School of Software, Shandong University, China</center> 
+
+
 # Abstract
 
 本文提出了一种新的组合式零样本艺术字体生成模型 (CAFS-GAN)，通过探索字形与效果之间编码语义的视觉独立性和联合兼容性，实现了对未见风格组合的合成。
