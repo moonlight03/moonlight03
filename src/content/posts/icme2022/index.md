@@ -5,7 +5,7 @@ description: "DreamFont3D: Personalized Text-to-3D Artistic Font Generation"
 image: "./fig1.png"
 tags: [2D, 艺术字, 风格解耦]
 category: 会议论文
-draft: true 
+draft: false 
 ---
 
 # Abstract
