@@ -8,7 +8,7 @@ category: 会议论文
 draft: false 
 ---
 
-> **Changshuo Wang, Lei Wu*, Xiaole Liu, Xiang Li, Lei Meng*, Xiangxu Meng**
+> **Changshuo Wang, Lei Wu\*, Xiaole Liu, Xiang Li, Lei Meng\*, Xiangxu Meng**
 >
 > **School of Software, Shandong University, China**
 
