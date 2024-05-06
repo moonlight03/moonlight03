@@ -1,7 +1,7 @@
 ---
 title: ICME2022 Paper
 published: 2023-03-20
-description: "DreamFont3D: Personalized Text-to-3D Artistic Font Generation"
+description: "DSE-Net: Artistic Font Image Synthesis Via Disentangled Style Encoding"
 image: "./fig1.png"
 tags: [2D, 艺术字, 风格解耦]
 category: 会议论文
