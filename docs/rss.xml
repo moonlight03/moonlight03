@@ -71,9 +71,9 @@ draft: true
     └── index.md
 &lt;/code&gt;&lt;/pre&gt;
 </content:encoded></item><item><title>ICME2022 Paper</title><link>https://moonlight03.github.io/moonlight03/posts/icme2022/</link><guid isPermaLink="true">https://moonlight03.github.io/moonlight03/posts/icme2022/</guid><description>DSE-Net: Artistic Font Image Synthesis Via Disentangled Style Encoding</description><pubDate>Mon, 20 Mar 2023 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
-&lt;p&gt;Xiang Li, Lei Wu*, Xu Chen, Lei Meng*, Xiangxu Meng&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;em&gt;Xiang Li, Lei Wu&lt;/em&gt;, Xu Chen, Lei Meng&lt;/em&gt;, Xiangxu Meng**&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;School of Software, Shandong University, China&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&amp;lt;center&amp;gt;School of Software, Shandong University, China&amp;lt;/center&amp;gt;&lt;/p&gt;
 &lt;h1&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;Recently, the artistic font generation has made significant progress. However, existing methods typically treat the style of artistic font as a whole. Their performance is usually limited to the artistic fonts with complex style elements in glyph and text effect. To solve these problems, this paper presents a disentangled style encoding network, termed DSE-Net, to synthesize artistic fonts. In order to obtain the disentangled text effect features, we introduce a perspective transformation network. We propose a cross-layer fusion mechanism to improve the artistic fonts’ structure and texture according to their different representations in CNN. Notably, encoding different style elements for artistic font generation is a new task, so there is no publicly-accessible dataset. Therefore, a new dataset, termed SSAF, has been constructed. Extensive experiments demonstrate that our model significantly outperforms the state-of-the-art methods, with more fine-grained text effect and accurate stroke details.&lt;/p&gt;
 &lt;h1&gt;Method&lt;/h1&gt;
@@ -93,9 +93,9 @@ draft: true
 &lt;h1&gt;Results&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;./fig3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content:encoded></item><item><title>IJCAI2023 Paper</title><link>https://moonlight03.github.io/moonlight03/posts/ijcai2023/</link><guid isPermaLink="true">https://moonlight03.github.io/moonlight03/posts/ijcai2023/</guid><description>Compositional Zero-Shot Artistic Font Synthesis</description><pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
-&lt;p&gt;Xiang Li, Lei Wu*, Changshuo Wang, Lei Meng*, Xiangxu Meng&lt;/p&gt;
+&lt;p&gt;Xiang Li, Lei Wu*, Changshuo Wang, Lei Meng*, Xiangxu Meng
+&amp;lt;center&amp;gt;School of Software, Shandong University, China&amp;lt;/center&amp;gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&amp;lt;center&amp;gt;School of Software, Shandong University, China&amp;lt;/center&amp;gt;&lt;/p&gt;
 &lt;h1&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;本文提出了一种新的组合式零样本艺术字体生成模型 (CAFS-GAN)，通过探索字形与效果之间编码语义的视觉独立性和联合兼容性，实现了对未见风格组合的合成。&lt;/p&gt;
 &lt;h1&gt;Method&lt;/h1&gt;
@@ -224,9 +224,9 @@ math should get its own line and be put in in double-dollarsigns:&lt;/p&gt;
 &lt;p&gt;And note that you can backslash-escape any punctuation characters
 which you wish to be displayed literally, ex.: `foo`, *bar*, etc.&lt;/p&gt;
 </content:encoded></item><item><title>Siggraph2024 Paper</title><link>https://moonlight03.github.io/moonlight03/posts/siggraph2024/</link><guid isPermaLink="true">https://moonlight03.github.io/moonlight03/posts/siggraph2024/</guid><description>DreamFont3D: Personalized Text-to-3D Artistic Font Generation</description><pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
-&lt;p&gt;Xiang Li, Lei Meng, Lei Wu*, Manyi Li, Xiangxu Meng&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;em&gt;Xiang Li, Lei Meng, Lei Wu&lt;/em&gt;, Manyi Li, Xiangxu Meng&lt;/em&gt;*&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;School of Software, Shandong University, China&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&amp;lt;center&amp;gt;School of Software, Shandong University, China&amp;lt;/center&amp;gt;&lt;/p&gt;
 &lt;h1&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;本文提出了一种新颖的文本到 3D 字体生成模型，它允许文本提示描述3D字体样式，字体蒙版或手绘字体布局来约束多视图下的3D字体结构，实现了3D艺术字体的生成和局部效果的控制。&lt;/p&gt;
 &lt;h1&gt;Method&lt;/h1&gt;
@@ -234,9 +234,9 @@ which you wish to be displayed literally, ex.: `foo`, *bar*, etc.&lt;/p&gt;
 &lt;h1&gt;Results&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;./fig3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content:encoded></item><item><title>Siggraph Asia 2023 Paper</title><link>https://moonlight03.github.io/moonlight03/posts/siggraphasia2023/</link><guid isPermaLink="true">https://moonlight03.github.io/moonlight03/posts/siggraphasia2023/</guid><description>Anything to Glyph: Artistic Font Synthesis via Text-to-Image Diffusion Model</description><pubDate>Sun, 30 Jul 2023 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
-&lt;p&gt;Changshuo Wang, Lei Wu*, Xiaole Liu, Xiang Li, Lei Meng*, Xiangxu Meng&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;em&gt;Changshuo Wang, Lei Wu&lt;/em&gt;, Xiaole Liu, Xiang Li, Lei Meng&lt;/em&gt;, Xiangxu Meng**&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;School of Software, Shandong University, China&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&amp;lt;center&amp;gt;School of Software, Shandong University, China&amp;lt;/center&amp;gt;&lt;/p&gt;
 &lt;h1&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;本文提出了一种使用预训练的文本到图像扩散模型生成创造性艺术字体的新方法。我们的模型以形状图像和描述对象的提示词作为输入，并生成由这些对象组成的艺术字体图像。&lt;/p&gt;
 &lt;h1&gt;Method&lt;/h1&gt;

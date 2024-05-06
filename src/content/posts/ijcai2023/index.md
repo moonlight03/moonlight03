@@ -9,9 +9,7 @@ draft: false
 ---
 
 > Xiang Li, Lei Wu*, Changshuo Wang, Lei Meng*, Xiangxu Meng
-
-<center>School of Software, Shandong University, China</center> 
-
+> <center>School of Software, Shandong University, China</center> 
 
 # Abstract
 

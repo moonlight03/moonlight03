@@ -8,9 +8,9 @@ category: 会议论文
 draft: false 
 ---
 
-> Xiang Li, Lei Wu*, Xu Chen, Lei Meng*, Xiangxu Meng
-
-<center>School of Software, Shandong University, China</center> 
+> **Xiang Li, Lei Wu*, Xu Chen, Lei Meng*, Xiangxu Meng**
+>
+> **School of Software, Shandong University, China**
 
 # Abstract
 
